@@ -22,10 +22,10 @@
 <a href="«PORTFOLIO_URL»">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" alt="portfolio" />
 </a>
-<a href="«LINKEDIN_URL»">
+<a href="https://www.linkedin.com/in/aditya-nair-8224a2275/">
   <img src="https://img.shields.io/badge/LinkedIn-6D3FB5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" alt="linkedin" />
 </a>
-<a href="mailto:«EMAIL»">
+<a href="mailto:anair0220@gmail.com">
   <img src="https://img.shields.io/badge/Email-4C2A85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="email" />
 </a>
 <a href="https://github.com/MasterOogway0220">
@@ -218,21 +218,21 @@ A sustained client vertical delivered with consistent branding across many distr
 </details>
 
 <details>
-<summary><b>🟣 &nbsp;Freelance — CRM & ERP Frontends</b></summary>
+<summary><b>🟣 &nbsp;Freelance — Full-Stack CRM & ERP Software</b></summary>
 <br/>
 
-Custom CRM and ERP interfaces built for real businesses — dashboards, data-heavy views, and role-based UI tailored to each client.
+End-to-end CRM and ERP solutions built for real businesses — from UI through to backend and data, with dashboards, data-heavy views, and role-based access tailored to each client.
 
 | Attribute | Detail |
 |:---------|:-------|
-| **Stack** | React · TypeScript · Tailwind |
-| **Scale** | Multiple business-system UIs across several clients |
-| **Performance** | Optimised data-heavy interfaces and reporting views |
-| **Highlights** | Clean dashboards, reusable tables/forms, responsive layouts |
-| **Impact** | Streamlined, easy-to-navigate interfaces for client teams |
+| **Stack** | React · TypeScript · Node.js · REST APIs · SQL |
+| **Scale** | Full-stack business systems across several clients |
+| **Performance** | Optimised data-heavy interfaces backed by efficient APIs |
+| **Highlights** | Role-based access, reusable tables/forms, end-to-end delivery |
+| **Impact** | Streamlined core operations for client organisations |
 | **Repository** | [View Project →](https://github.com/MasterOogway0220) |
 
-Delivered as a design-to-code pipeline — from reference designs through to production UI.
+Delivered as a full design-to-deployment pipeline — from reference designs through to a working full-stack product.
 
 </details>
 
@@ -241,13 +241,14 @@ Delivered as a design-to-code pipeline — from reference designs through to pro
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience
 
 **Frontend Web Developer** — `Kaizen Infotech Solutions Pvt. Ltd.` &nbsp;·&nbsp; Mumbai, India
-`2023 — Present`
+`2024 — Present`
 
 Building product and client-facing frontends — taking designs and specs through to polished, production-ready interfaces on a React + TypeScript foundation.
 
 - Build and redesign UIs for **Kaizen OMS** and **AgentBandhu** with React, TypeScript, TanStack, and Tailwind
-- Deliver **client web frontends** (Rotary portals, CRM/ERP interfaces, landing pages) as a design-to-code pipeline
+- Deliver **client web frontends** (Rotary portals, landing pages, product UIs) as a design-to-code pipeline
 - Craft **scroll-driven and animation-rich** experiences using GSAP, Three.js, and Lenis
+- Take on **full-stack freelance CRM/ERP** builds end to end alongside frontend work
 - Drive UI redesigns toward a modern Linear/Vercel-grade aesthetic with shadcn/ui
 
 `React` &nbsp; `TypeScript` &nbsp; `Next.js` &nbsp; `Tailwind` &nbsp; `TanStack` &nbsp; `GSAP` &nbsp; `Figma`
@@ -263,7 +264,7 @@ Building product and client-facing frontends — taking designs and specs throug
 | **Design-to-Code Delivery** | Consistently converts references and specs into pixel-accurate production UI |
 | **Multi-Client Web Ecosystems** | Delivered large-scale front ends across the Rotary International network |
 | **Motion & Interaction** | Ships scroll-driven, animation-rich experiences with GSAP and Three.js |
-| **UI Redesign Leadership** | Drives modern dashboard redesigns to a Linear/Vercel-grade standard |
+| **Full-Stack Freelance** | Delivers end-to-end CRM/ERP products beyond the front end |
 
 </div>
 
@@ -292,7 +293,7 @@ Building product and client-facing frontends — taking designs and specs throug
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Contribution Activity
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -312,7 +313,7 @@ Building product and client-facing frontends — taking designs and specs throug
 
 ---
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> &nbsp;Current Focus
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Current Focus
 
 ```yaml
 learning:
@@ -341,10 +342,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:«EMAIL»">
+<a href="mailto:anair0220@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-4C2A85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="gmail" />
 </a>
-<a href="«LINKEDIN_URL»">
+<a href="https://www.linkedin.com/in/aditya-nair-8224a2275/">
   <img src="https://img.shields.io/badge/LinkedIn-6D3FB5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" alt="linkedin" />
 </a>
 <a href="https://github.com/MasterOogway0220">
