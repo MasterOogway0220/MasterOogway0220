@@ -1,11 +1,418 @@
-# 💫 About Me:
-Perfect! Here's a polished "About Me" section for your GitHub README:<br><br>👋 About Me<br>Hey there! I'm a Frontend Developer passionate about building beautiful and functional web experiences. Currently working at Kaizen Infotech Solutions Pvt Ltd while also running my own web agency, Muse One, where I help clients bring their digital visions to life.<br>🎓 Final year Master's in Computer Science student | 💼 Full-time Developer | 🚀 Freelance Agency Owner<br>💻 What I Do<br><br>Build responsive websites and dynamic web applications<br>Transform ideas into production-ready code at Kaizen Infotech Solutions<br>Lead end-to-end web projects through Muse One<br>Balance academic pursuits with real-world development challenges<br><br>🔧 Tech Stack<br><br>Core: HTML, CSS, JavaScript<br>Frameworks: React.js, Next.js<br>Approach: Scalable solutions - from simple websites to complex web applications<br><br>🎯 Interests<br><br>Crafting intuitive user interfaces<br>Building performant web applications<br>Exploring modern frontend architectures<br><br>🏀 Beyond Code<br>When I'm not coding, you'll find me:<br><br>Hitting the gym or playing basketball<br>Getting lost in a good book<br>Sketching and drawing
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ✦  ADITYA  ·  GITHUB PROFILE  ✦                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/tWmuuQAQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aditya_nair_0803/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-nair-8224a2275 ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4gAqxzN3k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anair0220@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,25:2d1b4e,50:4c2a85,75:6d3fb5,100:8b5cf6&height=220&section=header&text=Aditya&fontSize=68&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20·%20AI%2FML%20·%20Full%20Stack%20·%20Product%20Engineering&descSize=17&descAlignY=54&descAlign=50&animation=fadeIn" alt="header" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Building+Enterprise-Grade+Software;Full+Stack+Engineer+%7C+React+%2B+.NET;AI%2FML+%26+Product+Engineering;Turning+Complex+Problems+Into+Clean+Systems" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Engineering-1a0b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=2d1b4e" alt="degree" />
+<img src="https://img.shields.io/badge/📍%20Mumbai%2C%20India-1a0b2e?style=for-the-badge&labelColor=2d1b4e" alt="location" />
+
+<br/><br/>
+
+<a href="«PORTFOLIO_URL»">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" alt="portfolio" />
+</a>
+<a href="«LINKEDIN_URL»">
+  <img src="https://img.shields.io/badge/LinkedIn-6D3FB5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" alt="linkedin" />
+</a>
+<a href="mailto:«EMAIL»">
+  <img src="https://img.shields.io/badge/Email-4C2A85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="email" />
+</a>
+<a href="https://github.com/MasterOogway0220">
+  <img src="https://img.shields.io/badge/GitHub-2D1B4E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" alt="github" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MasterOogway0220&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/MasterOogway0220?style=for-the-badge&color=6D3FB5&labelColor=1a0b2e&label=FOLLOWERS" alt="followers" />
+<img src="https://img.shields.io/github/stars/MasterOogway0220?style=for-the-badge&color=4C2A85&labelColor=1a0b2e&label=TOTAL+STARS" alt="stars" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/MasterOogway0220/MasterOogway0220/output/github-contribution-grid-snake-dark.svg" alt="snake preview" />
+
+Software engineer focused on **building enterprise-grade products end to end** — from clean architecture on the backend to polished, high-performance interfaces on the front. My core stack is **React + TypeScript** and **.NET 8 Clean Architecture**, and I care about systems that stay maintainable as they scale.
+
+- 🧠 **AI/ML** — applied machine learning, LLM-powered workflows, and intelligent automation baked into real products
+- 🏗️ **Full Stack** — TanStack-driven React frontends, .NET 8 APIs, SQL Server, and Windows/IIS deployments
+- ⚙️ **Product Engineering** — I think in outcomes, not tickets: shipping features that move the metric, not just close the story
+- 🌏 Currently engineering at **Kaizen Infotech Solutions**, Mumbai
+
+<br/>
+
+> **`Open To`** &nbsp;·&nbsp; Software Engineering Roles &nbsp;·&nbsp; AI/ML Engineering &nbsp;·&nbsp; Full Stack Positions &nbsp;·&nbsp; Freelance & Consulting
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=ts,js,cs,python,html,css,sql&theme=dark)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux,vue,nextjs&theme=dark)
+
+**Backend & Databases**
+
+![Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mysql,mongodb,redis&theme=dark)
+
+**Cloud, DevOps & Tooling**
+
+![Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,nginx,postman&theme=dark)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:------:|:-----------:|:--------|
+| **LLM Application Engineering** | ⭐⭐⭐⭐⭐ | Prompt orchestration, RAG pipelines, and LLM-driven automation embedded into production CRM/ERP workflows |
+| **Machine Learning** | ⭐⭐⭐⭐ | Supervised learning, feature engineering, and model evaluation for classification & prediction tasks |
+| **NLP** | ⭐⭐⭐⭐ | Text classification, entity extraction, and conversational interfaces (WhatsApp-based agent flows) |
+| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, structured data extraction, and analytics-ready data modelling |
+| **MLOps & Integration** | ⭐⭐⭐ | Serving models behind .NET APIs, monitoring, and integrating inference into real-time product surfaces |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<details>
+<summary><b>🟣 &nbsp;Kaizen OMS — Organization Management System</b></summary>
+<br/>
+
+An internal enterprise platform unifying day planning, EOD reporting, sprint boards, timesheets, projects, and team messaging into a single operational hub.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · Vite · TanStack · .NET 8 Clean Architecture · SQL Server |
+| **Scale** | Multi-module, org-wide internal tooling across 8+ core screens |
+| **Performance** | Dependency-light, inventory-first UI with a Linear/Vercel-grade dashboard aesthetic |
+| **Security** | Role-based access, authenticated APIs, layered clean-architecture boundaries |
+| **Impact** | Centralised team operations and reporting into one maintainable system |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+Built as a long-running, actively-redesigned product — engineered for maintainability with strict architectural separation and a modern component system.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;AgentBandhu — WhatsApp CRM for Insurance Agents</b></summary>
+<br/>
+
+A WhatsApp-first CRM that lets insurance agents manage leads, conversations, and follow-ups directly inside the channel their clients already use.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · .NET 8 · WhatsApp Business API · SQL Server |
+| **Scale** | Conversational CRM handling agent–client pipelines end to end |
+| **Performance** | Real-time messaging flows with low-latency lead handling |
+| **Security** | Authenticated agent access with isolated client data |
+| **Impact** | Turns a messaging app into a full sales-and-retention workflow |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+Engineered around real agent behaviour — meeting users where they work instead of forcing a separate dashboard.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;Arovia — Product Platform</b></summary>
+<br/>
+
+A modern product platform focused on a clean, high-performance user experience and a scalable engineering foundation.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · Tailwind · .NET 8 |
+| **Scale** | Full-stack product surface with modular architecture |
+| **Performance** | Optimised rendering and lean client-side footprint |
+| **Security** | Secured API layer with role-aware access |
+| **Impact** | Delivers a premium, responsive product experience |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+Designed as a design-to-code build with attention to motion, hierarchy, and interaction polish.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;Aharveda — Wellness Product Experience</b></summary>
+<br/>
+
+A wellness-focused digital product blending an editorial, brand-forward front end with a robust engineering backbone.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · Tailwind · Node.js |
+| **Scale** | Multi-page product & content experience |
+| **Performance** | Fast, animation-rich interface tuned for engagement |
+| **Security** | Standard hardened web deployment |
+| **Impact** | Strong brand presentation backed by clean, reusable components |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+A design-led build emphasising narrative, aesthetics, and smooth scroll-driven interaction.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;YatriMitra — Events & Travel Platform</b></summary>
+<br/>
+
+An events and travel platform bringing discovery, listings, and booking-style flows into one cohesive experience.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | Next.js 15 · React · TypeScript · Tailwind |
+| **Scale** | 16+ page platform spanning events and travel journeys |
+| **Performance** | SSR/SSG-optimised delivery for fast first paint |
+| **Security** | Secure routing with structured data handling |
+| **Impact** | Unifies event discovery and travel planning in a single product |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+Rebuilt on a modern Next.js foundation after a full static prototype — engineered for scale and SEO.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;Rotary India — District & Club Web Ecosystem</b></summary>
+<br/>
+
+A large multi-portal web ecosystem serving Rotary International districts and clubs — club finders, member directories, calendars, and profile systems.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · Tailwind · SPA Routing |
+| **Scale** | Multiple districts, hundreds of clubs, deep multi-page portals |
+| **Performance** | Client-side routed SPAs with glassmorphism-accented UI |
+| **Security** | Standard secured static/dynamic deployments |
+| **Impact** | Digitised directories, events, and profiles across the Rotary network |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+A sustained client vertical — consistent Rotary branding delivered across many districts with a reusable component system.
+
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;Freelance — CRM & ERP Software</b></summary>
+<br/>
+
+Custom CRM and ERP solutions built for real businesses — purchase modules, inventory, operations, and role-based dashboards tailored to each client.
+
+| Attribute | Detail |
+|:---------|:-------|
+| **Stack** | React · TypeScript · .NET 8 · SQL Server |
+| **Scale** | Multi-module business systems across several clients |
+| **Performance** | Optimised data-heavy interfaces and reporting |
+| **Security** | Role-based access control and audited modules |
+| **Impact** | Streamlined core operations for client organisations |
+| **Repository** | [View Project →](https://github.com/MasterOogway0220) |
+
+Delivered as a design-to-code pipeline — from PRD and audit through to production implementation.
+
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience
+
+**Software Engineer** — `Kaizen Infotech Solutions Pvt. Ltd.` &nbsp;·&nbsp; Mumbai, India
+`2023 — Present`
+
+Engineering enterprise products and client software across the full stack — owning features from architecture through deployment on a React + .NET 8 foundation.
+
+- Architect and ship modules for **Kaizen OMS** and **AgentBandhu** using React, TypeScript, TanStack, and .NET 8 Clean Architecture
+- Build and deliver **client CRM/ERP systems** and web platforms as a design-to-code pipeline
+- Manage **Windows/IIS/Plesk** deployments, DNS, and hosting across multiple client domains
+- Drive UI redesigns to a modern Linear/Vercel-grade aesthetic with shadcn/ui and Tailwind
+
+`React` &nbsp; `TypeScript` &nbsp; `.NET 8` &nbsp; `SQL Server` &nbsp; `TanStack` &nbsp; `Tailwind` &nbsp; `IIS` &nbsp; `AI/ML`
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements
+
+<div align="center">
+
+| 🏆 Recognition | Details |
+|:--------------|:--------|
+| **Enterprise Product Delivery** | Shipped multiple full-stack products end to end at Kaizen Infotech |
+| **Design-to-Code Excellence** | Consistently converts specs and references into production-grade builds |
+| **Multi-Client Web Ecosystems** | Delivered large-scale portals across the Rotary International network |
+| **Full-Stack Ownership** | Owns architecture, implementation, and deployment across the stack |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> &nbsp;Certifications
+
+<div align="center">
+
+**Amazon Web Services**
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-1a0b2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=2d1b4e)
+
+**Oracle**
+
+![Oracle](https://img.shields.io/badge/Oracle%20Certified-1a0b2e?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=2d1b4e)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL%20Certification-1a0b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA&labelColor=2d1b4e)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-1a0b2e?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=2d1b4e)
+
+</div>
+
+> _Replace the badges above with your actual certifications — the provider grouping is ready to go._
+
+---
+
+## <img src="https://media.giphy.com/media/Rg7cWfwGWCd6R6UfHc/giphy.gif" width="28"> &nbsp;Coding Profiles
+
+<div align="center">
+
+<a href="«LEETCODE_URL»">
+  <img src="https://img.shields.io/badge/LeetCode-1a0b2e?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=2d1b4e" height="42" alt="leetcode" />
+</a>
+&nbsp;
+<a href="«GFG_URL»">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-1a0b2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=2d1b4e" height="42" alt="gfg" />
+</a>
+&nbsp;
+<a href="«HACKERRANK_URL»">
+  <img src="https://img.shields.io/badge/HackerRank-1a0b2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=2d1b4e" height="42" alt="hackerrank" />
+</a>
+&nbsp;
+<a href="«CODECHEF_URL»">
+  <img src="https://img.shields.io/badge/CodeChef-1a0b2e?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=2d1b4e" height="42" alt="codechef" />
+</a>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IEXB5/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MasterOogway0220&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d0117" alt="stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MasterOogway0220&hide_border=true&background=0d0117&stroke=8B5CF6&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOogway0220&layout=compact&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d0117&langs_count=8" alt="top langs" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28"> &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MasterOogway0220&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="28"> &nbsp;Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MasterOogway0220&bg_color=0d0117&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/MasterOogway0220/MasterOogway0220/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Current Focus
+
+```yaml
+learning:
+  - Advanced LLM application patterns (RAG, agents, tool use)
+  - Cloud-native architecture on AWS & Azure
+  - Scalable .NET 8 microservices
+
+building:
+  - Kaizen OMS UI redesign (Linear/Vercel aesthetic)
+  - AI-powered CRM & ERP workflows
+  - High-fidelity design-to-code product experiences
+
+exploring:
+  - 3D & scroll-driven web experiences (Three.js, GSAP)
+  - MLOps and model-serving pipelines
+
+open_to:
+  - Software Engineering roles
+  - AI/ML Engineering
+  - Full Stack positions
+  - Freelance & consulting
+```
+
+---
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> &nbsp;Connect
+
+<div align="center">
+
+<a href="mailto:«EMAIL»">
+  <img src="https://img.shields.io/badge/Gmail-4C2A85?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="gmail" />
+</a>
+<a href="«LINKEDIN_URL»">
+  <img src="https://img.shields.io/badge/LinkedIn-6D3FB5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e" alt="linkedin" />
+</a>
+<a href="https://github.com/MasterOogway0220">
+  <img src="https://img.shields.io/badge/GitHub-2D1B4E?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e" alt="github" />
+</a>
+<a href="«PORTFOLIO_URL»">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e" alt="portfolio" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### _"Great engineering is invisible — it just works, at scale."_
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,25:6d3fb5,50:4c2a85,75:2d1b4e,100:1a0b2e&height=140&section=footer" alt="footer" />
